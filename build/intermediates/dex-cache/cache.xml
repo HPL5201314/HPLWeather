@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\build\intermediates\pre-dexed\release\android-support-v4_558fe020a5a7890f88bf220f2c9708df594aee3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="d4794b08524de7fbb554d356eb6f060895ba7dc8">
+        <dex dex="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\build\intermediates\pre-dexed\release\BaiduLBS_Android_40756decdc83eb2b37ebdd1d660bfa84f1b527cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\HPLWeather\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="C:\Users\Administrator\Desktop\HPLWeather\build\intermediates\pre-dexed\release\universal-image-loader-1.8.4_7f10ab6b38cd5439c733dfc1e4f3d992c8b7fef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\libs\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\build\intermediates\pre-dexed\release\gson-2.1_1afcb6a7c291db49c1dca01c662d3d944898cd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\HPLWeather\libs\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="C:\Users\Administrator\Desktop\HPLWeather\build\intermediates\pre-dexed\release\gson-2.1_23ff460051a5ffa265642445b76ddb6f504461d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\HPLWeather\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="d4794b08524de7fbb554d356eb6f060895ba7dc8">
+        <dex dex="C:\Users\Administrator\Desktop\HPLWeather\build\intermediates\pre-dexed\release\BaiduLBS_Android_3762c96dd9c72c161291bd0fc06ee3d4930613f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="G:\Project\APKBUS\CoolWeather-master\CoolWeather-master\build\intermediates\pre-dexed\release\universal-image-loader-1.8.4_2e6e4871ca425a67df206edda0aa730ecf1a5a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\HPLWeather\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Administrator\Desktop\HPLWeather\build\intermediates\pre-dexed\release\android-support-v4_bb0696f7d733c67d3bc215fed1d34850ce10cbf8.jar" />
+    </item>
+
+</items>

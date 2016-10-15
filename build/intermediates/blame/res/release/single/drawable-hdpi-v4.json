@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\left_layout_bg.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\drawable-hdpi\\left_layout_bg.jpg"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\left_layout_bg.jpg",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\drawable-hdpi\\left_layout_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_avatar.JPG",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\drawable-hdpi\\mine_avatar.JPG"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather.jpg",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\drawable-hdpi\\weather.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mine_avatar.JPG",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\drawable-hdpi\\mine_avatar.JPG"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\weather.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\drawable-hdpi\\weather.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cool_weather_icon.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\drawable-hdpi\\cool_weather_icon.jpg"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cool_weather_icon.jpg",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\drawable-hdpi\\cool_weather_icon.jpg"
+    }
+]

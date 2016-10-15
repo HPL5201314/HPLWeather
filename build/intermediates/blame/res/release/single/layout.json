@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\homepager_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\homepager_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\main_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\gridview_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\gridview_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\gridview_todaycan.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\gridview_todaycan.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\bg_pic_grid_item.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\bg_pic_grid_item.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\citymanager_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\citymanager_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\addcity_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\addcity_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\citymanager_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\citymanager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\include_content_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\include_content_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\main_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\about_me_fragment.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\about_me_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\gridview_citymanager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\gridview_citymanager.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\main_activity_net_error.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\main_activity_net_error.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\change_background_fragment.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\change_background_fragment.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\include_content_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\include_content_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\gridview_citymanager.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\gridview_citymanager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\change_background_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\change_background_fragment.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_citymanager.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\item_gridview_citymanager.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\item_listview_tomorrow.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\item_listview_tomorrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\include_title_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\include_title_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\tomorrow_weather_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\tomorrow_weather_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_todaycan.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\item_gridview_todaycan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_citymanager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\item_gridview_citymanager.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\gridview_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\gridview_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\gridview_todaycan.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\gridview_todaycan.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\welcome_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\tomorrow_weather_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\tomorrow_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\homepager_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\homepager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\addcity_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\addcity_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_todaycan.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\item_gridview_todaycan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\main_activity_net_error.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\main_activity_net_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\welcome_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\include_title_activity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\include_title_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\about_me_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\about_me_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\item_listview_tomorrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\item_listview_tomorrow.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_addcity.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\item_gridview_addcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\exitapp_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\exitapp_dialog.xml"
+    },
+    {
+        "merged": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\build\\intermediates\\res\\merged\\release\\layout\\exitapp_dialog.xml",
+        "source": "G:\\Project\\APKBUS\\CoolWeather-master\\CoolWeather-master\\res\\layout\\exitapp_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview_addcity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\item_gridview_addcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\build\\intermediates\\res\\merged\\release\\layout\\bg_pic_grid_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\HPLWeather\\res\\layout\\bg_pic_grid_item.xml"
+    }
+]
